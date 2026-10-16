@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "dev": "uv run uvicorn main:app --reload --app-dir src"
+    }
+}
